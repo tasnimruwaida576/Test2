@@ -1,0 +1,39 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-http": {
+      "ANDROIDX_WEBKIT_VERSION": "1.4.0",
+      "PACKAGE_NAME": "com.test.fghdrfgsdsdgsg"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "com.test.fghdrfgsdsdgsg"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.test.fghdrfgsdsdgsg"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.test.fghdrfgsdsdgsg"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.test.fghdrfgsdsdgsg"
+    },
+    "cordova-plugin-screen-orientation": {
+      "PACKAGE_NAME": "com.test.fghdrfgsdsdgsg"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-file": {
+      "ANDROIDX_WEBKIT_VERSION": "1.4.0",
+      "PACKAGE_NAME": "com.test.fghdrfgsdsdgsg"
+    },
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "com.test.fghdrfgsdsdgsg"
+    }
+  }
+}
